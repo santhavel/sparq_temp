@@ -471,7 +471,6 @@
   min-height: 343px;
   grid-template-columns: calc(25% - 8px) calc(25% - 8px) calc(25% - 8px) calc(25% - 8px);
   grid-gap: 10px 10px;
-  height: auto;
   width: 1200px;
   margin: 43px -30px 33px;
 }
@@ -587,6 +586,7 @@
 
   .u-section-3 .u-list-1 {
     min-height: 369px;
+    height: auto;
     width: 940px;
     margin: 48px 0;
   }
