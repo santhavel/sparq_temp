@@ -282,10 +282,10 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 352px;
+    width: 328px;
     height: 178px;
     margin-top: -111px;
-    margin-right: -84px;
+    margin-right: -60px;
   }
 
   .u-section-1 .u-image-2 {
@@ -326,7 +326,6 @@
   min-height: 1460px;
   grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto auto;
-  height: auto;
   grid-gap: 10px 10px;
   margin: 20px auto 0;
 }
@@ -486,6 +485,7 @@
 
   .u-section-2 .u-list-1 {
     min-height: 936px;
+    height: auto;
     margin-right: initial;
     margin-left: initial;
   }
