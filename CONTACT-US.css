@@ -271,7 +271,8 @@
 
 .u-section-2 .u-form-1 {
   height: 437px;
-  margin: -382px 18px 0 101px;
+  width: 570px;
+  margin: -382px auto 0;
 }
 
 .u-section-2 .u-form-group-1 {
@@ -328,8 +329,8 @@
   .u-section-2 .u-form-1 {
     height: 317px;
     margin-top: -342px;
-    margin-right: 0;
     margin-left: 88px;
+    width: 552px;
   }
 }
 
@@ -376,6 +377,7 @@
     margin-top: -421px;
     margin-right: 5px;
     margin-left: 93px;
+    width: 432px;
   }
 }
 
@@ -445,6 +447,7 @@
     margin-top: 10px;
     margin-right: initial;
     margin-left: initial;
+    width: auto;
   }
 }
 
