@@ -252,7 +252,6 @@
   min-height: 423px;
   width: 410px;
   box-shadow: 5px 5px 26px 0 rgba(0,0,0,0.2);
-  height: auto;
   background-image: url("images/abstract_orange_background_polygonal_style_ornament_68281602.jpg");
   background-position: 0% 0%;
   background-size: 120%;
@@ -332,11 +331,19 @@
   margin-left: 0;
 }
 
+.u-section-2 .u-btn-1 {
+  font-family: Roboto, sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  display: inline !important;
+  padding: 0;
+}
+
 .u-section-2 .u-form-group-8 {
   width: 100%;
 }
 
-.u-section-2 .u-btn-1 {
+.u-section-2 .u-btn-2 {
   border-style: solid;
   letter-spacing: 1px;
   font-weight: 700;
