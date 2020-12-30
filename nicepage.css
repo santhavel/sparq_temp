@@ -32031,15 +32031,16 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-icon-5 {
-    margin-right: calc(((100% - 340px) / 2) + 162px);
-    margin-left: calc(((100% - 340px) / 2) + 16px);
+    margin-top: -33px;
+    margin-right: auto;
+    margin-left: calc(((100% - 340px) / 2) + 25px);
   }
 
   .u-header .u-btn-1 {
-    width: 107px;
-    margin-right: calc(((100% - 340px) / 2) + -36px);
-    margin-bottom: 27px;
-    margin-left: auto;
+    font-size: 0.625rem;
+    width: 71px;
+    margin: -35px calc(((100% - 340px) / 2)) 33px auto;
+    padding: 1px 5px 1px 4px;
   }
 }
 .u-footer .u-sheet-1 {

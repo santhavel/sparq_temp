@@ -50,10 +50,9 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: -13px;
-    margin-right: -13px;
-    font-size: 2.25rem;
+    font-size: 1.875rem;
     width: 340px;
+    margin: 43px 14px;
   }
 }.u-section-2 {
   background-image: url("images/business-partner-image1.jpg");
@@ -61,30 +60,30 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 600px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 512px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 316px;
+    min-height: 372px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 237px;
+    min-height: 279px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 149px;
+    min-height: 229px;
   }
 }.u-section-3 {
   background-image: url("images/13781154.jpg");
