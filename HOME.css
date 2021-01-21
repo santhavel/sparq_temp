@@ -507,10 +507,6 @@
   margin: 26px 0 0;
 }
 
-.u-section-3 .u-list-item-2 {
-  background-size: auto;
-}
-
 .u-section-3 .u-container-layout-2 {
   padding: 30px;
 }
@@ -533,10 +529,6 @@
   margin: 26px 0 0;
 }
 
-.u-section-3 .u-list-item-3 {
-  background-size: auto;
-}
-
 .u-section-3 .u-container-layout-3 {
   padding: 30px;
 }
@@ -557,10 +549,6 @@
 .u-section-3 .u-text-6 {
   font-style: italic;
   margin: 26px 0 0;
-}
-
-.u-section-3 .u-list-item-4 {
-  background-size: auto;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -595,6 +583,18 @@
     height: auto;
     width: 940px;
     margin: 48px 0;
+  }
+
+  .u-section-3 .u-list-item-2 {
+    background-size: auto;
+  }
+
+  .u-section-3 .u-list-item-3 {
+    background-size: auto;
+  }
+
+  .u-section-3 .u-list-item-4 {
+    background-size: auto;
   }
 }
 
@@ -1163,10 +1163,6 @@
   margin: 20px -6px 0;
 }
 
-.u-section-7 .u-list-item-2 {
-  background-size: auto;
-}
-
 .u-section-7 .u-container-layout-2 {
   padding: 30px;
 }
@@ -1187,10 +1183,6 @@
 .u-section-7 .u-text-6 {
   font-style: italic;
   margin: 20px -6px 0;
-}
-
-.u-section-7 .u-list-item-3 {
-  background-size: auto;
 }
 
 .u-section-7 .u-container-layout-3 {
@@ -1216,10 +1208,6 @@
   margin: 20px -6px 0;
 }
 
-.u-section-7 .u-list-item-4 {
-  background-size: auto;
-}
-
 .u-section-7 .u-container-layout-4 {
   padding: 30px;
 }
@@ -1242,10 +1230,6 @@
   margin: 20px -6px 0;
 }
 
-.u-section-7 .u-list-item-5 {
-  background-size: auto;
-}
-
 .u-section-7 .u-container-layout-5 {
   padding: 30px;
 }
@@ -1266,10 +1250,6 @@
 .u-section-7 .u-text-12 {
   font-style: italic;
   margin: 20px -6px 0;
-}
-
-.u-section-7 .u-list-item-6 {
-  background-size: auto;
 }
 
 .u-section-7 .u-container-layout-6 {
@@ -1334,6 +1314,10 @@
     margin-right: 0;
   }
 
+  .u-section-7 .u-list-item-2 {
+    background-size: auto;
+  }
+
   .u-section-7 .u-image-2 {
     margin-left: -9px;
     margin-right: -9px;
@@ -1347,6 +1331,10 @@
     margin-top: 10px;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-7 .u-list-item-3 {
+    background-size: auto;
   }
 
   .u-section-7 .u-image-3 {
@@ -1364,6 +1352,10 @@
     margin-right: 0;
   }
 
+  .u-section-7 .u-list-item-4 {
+    background-size: auto;
+  }
+
   .u-section-7 .u-image-4 {
     margin-left: -9px;
     margin-right: -9px;
@@ -1379,6 +1371,10 @@
     margin-right: 0;
   }
 
+  .u-section-7 .u-list-item-5 {
+    background-size: auto;
+  }
+
   .u-section-7 .u-image-5 {
     margin-left: -9px;
     margin-right: -9px;
@@ -1392,6 +1388,10 @@
     margin-top: 10px;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-7 .u-list-item-6 {
+    background-size: auto;
   }
 
   .u-section-7 .u-image-6 {
